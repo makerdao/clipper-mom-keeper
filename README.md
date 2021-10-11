@@ -8,10 +8,14 @@ The typical condition to trip the breaker is that the asset price has fallen
 more than 50% in a one hour period.
 
 ## Install
+```
 npm install
+```
 
 ## Make configuration changes
 Simply edit index.js and change `WS_RPC` to your webocket URL.
 
 ## Run
+```
 npm start
+```
