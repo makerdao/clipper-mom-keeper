@@ -1,9 +1,10 @@
 {
   "name": "clipper-mom-breaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Checks if we can call the clipper-mom.tripBreaker().",
   "main": "index.js",
   "scripts": {
+    "start" : "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
